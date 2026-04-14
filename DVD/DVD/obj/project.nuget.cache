@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cq/Pk7Bnwp0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anhelina\\OneDrive - Business College Helsinki\\Tiedostot\\vs\\DVD\\DVD\\DVD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anhelina\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
